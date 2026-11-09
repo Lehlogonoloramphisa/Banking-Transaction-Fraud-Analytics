@@ -8,7 +8,7 @@ It processes two datasets, the Berka Czech Bank dataset and the PaySim synthetic
 
 ## Architecture
 
-![Banking Transaction and Fraud Analytics Architecture](architecture/Banking Fraud Analytics Architecture.png)
+![Banking Transaction and Fraud Analytics Architecture](architecture/Banking-Fraud-Analytics-Architecture.png)
 
 ## Technologies Used
 
